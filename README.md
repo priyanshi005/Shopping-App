@@ -1,2 +1,2 @@
-# BEJ_C1_S2_Backend_Application_Using_Spring_PC1
+# Backend_Application_Using_Spring_Framework
 
